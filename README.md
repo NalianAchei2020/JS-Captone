@@ -30,6 +30,9 @@
 
 **JS-Capstone** The repository serves as a showcase to demonstrate proficiency in utilizing different tools and implementing established practices acquired during prior stages. this is a collaborative project.
 
+![Alt text](image.png)
+![Alt text](image-1.png)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
